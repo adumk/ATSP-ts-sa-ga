@@ -1,0 +1,17 @@
+# ninja log v5
+11	2392	7597726038462201	CMakeFiles/PEA_projekt2.dir/FileService.cpp.obj	c4aa254444f8bf62
+12	1458	7599584393254804	CMakeFiles/PEA_projekt2.dir/GreedyMethod.cpp.obj	b1db415096ddc7e8
+4	802	7555407457046724	CMakeFiles/PEA_projekt2.dir/Graph.cpp.obj	d3088bb3debcb123
+7	1971	7599623809033456	CMakeFiles/PEA_projekt2.dir/GeneticAlgorithm.cpp.obj	798e3b79404c14f5
+21	4001	7597726054542145	CMakeFiles/PEA_projekt2.dir/SimulatedAnnealing.cpp.obj	da90da3356137fa1
+16	4060	7597726055174347	CMakeFiles/PEA_projekt2.dir/TabuSearch.cpp.obj	ca58fc756c13ed4a
+2270	2865	7599849527621529	PEA_projekt2.exe	4be4ab4dc069689f
+3	2270	7599849521685705	CMakeFiles/PEA_projekt2.dir/main.cpp.obj	1aa4ea8ffc164176
+26	4633	7597726060889064	CMakeFiles/PEA_projekt2.dir/pugixml.cpp.obj	316fcab4d6f3a9cb
+7	1374	7599849512793050	CMakeFiles/PEA_projekt2.dir/GeneticAlgorithm2.cpp.obj	9bc37537e36f630
+13	762	7670594610642016	CMakeFiles/PEA_projekt2.dir/GreedyMethod.cpp.obj	b1db415096ddc7e8
+7	919	7670594612228930	CMakeFiles/PEA_projekt2.dir/FileService.cpp.obj	c4aa254444f8bf62
+10	1478	7670594617816629	CMakeFiles/PEA_projekt2.dir/TabuSearch.cpp.obj	ca58fc756c13ed4a
+16	1721	7670594620246552	CMakeFiles/PEA_projekt2.dir/GeneticAlgorithm.cpp.obj	798e3b79404c14f5
+3	2462	7670594627591184	CMakeFiles/PEA_projekt2.dir/main.cpp.obj	1aa4ea8ffc164176
+2462	3037	7670594633321695	PEA_projekt2.exe	66e3f9c6f211c068
